@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning Python & various front-end tech (e.g. Angular, Vite, etc.)  
   
 
-- ❓ Feel free to ask about my experiences with Agile or the PERN stack  
+- ❓ Feel free to ask about my experience with Agile or the PERN stack  
   
 
-- 💬 Alternatively, I always enjoy chatting about medicine & my switch into coding  
+- 💬 Alternatively, I always enjoy chatting about medicine or my switch into coding  
   
 
-- ❤️ Fun Fact: In addition to software, I'm obsessed w/ music & sports!  
+- ❤️ **Fun Fact:** In addition to software, I'm obsessed w/ music & sports!  
   
 
 <br/>  
