@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alex, a pre-med grad turned full-stack dev 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Python & various front-end tech (e.g. Angular, Vite, etc.)  
+- 🌱 I’m currently learning TypeScript & various front-end tech (e.g. Angular, Vite, etc.)  
   
 
 - ❓ Feel free to ask about my experience with Agile or the PERN stack  
