@@ -18,11 +18,12 @@
 - ❤️ **Fun Fact:** In addition to software, I'm obsessed w/ music & sports!  
   
 
-<br/>  
+<br/> 
 
 
-## <a href="https://www.javascript.com/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  My Skill Set
+## <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="10px" /></a>  My Skill Set
 <table><tr><td valign="top" width="25%">
+
 
 
 ### Frontend  
