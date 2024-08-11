@@ -15,7 +15,7 @@
 - 💬 Alternatively, I always enjoy chatting about medicine or my switch into coding  
   
 
-- ❤️ **Fun Facts:** In addition to software, I'm obsessed w/ music & sports; & do BJJ (Brazilian Jiu-Jitsu) in my free time!   
+- ❤️ **Fun Facts:** In addition to software, I'm obsessed w/ music & sports, & do BJJ (Brazilian Jiu-Jitsu) in my free time!   
   
 
 <br/> 
