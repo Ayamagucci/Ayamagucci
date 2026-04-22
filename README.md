@@ -9,6 +9,9 @@ A full-stack developer focused on backend systems, performance, and scalability.
 
 I’ve built applications using React, Node.js, and PostgreSQL, with an emphasis on handling large datasets and optimizing system performance under load.
 
+---
+
+
 ### Focus Areas
 - Backend performance optimization  
 - Scalable system design  
@@ -17,6 +20,10 @@ I’ve built applications using React, Node.js, and PostgreSQL, with an emphasis
 ---
 
 I’m currently seeking software engineering opportunities where I can contribute to real-world systems and continue growing as an engineer.
+
+---
+
+Outside of software, I enjoy music, sports, and Brazilian Jiu-Jitsu.
 <br/>
 
 ## <a href="https://www.javascript.com/" target="_blank"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50px" /></a>  My Skill Set
